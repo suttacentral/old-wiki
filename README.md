@@ -1,1 +1,3 @@
-This is the old Wiki for Sutta Central
+This repository simply houses the old state of suttacentral.wiki 
+
+https://github.com/suttacentral/old-wiki/wiki
